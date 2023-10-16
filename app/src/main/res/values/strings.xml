@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ConvertidorTemperatura</string>
+    <string name="Titulo">Convertidor De Temperatura</string>
+    <string name="Subtitulo">Ingrese La Temperatura</string>
+    <string name="Seleccion">Seleccione La Conversion</string>
+    <string name="Resultado">Resultado</string>
 </resources>
