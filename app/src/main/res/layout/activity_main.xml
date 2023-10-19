@@ -83,13 +83,13 @@
         app:layout_constraintTop_toBottomOf="@+id/spinnerTemp" />
 
     <TextView
-        android:textStyle="bold"
-        android:textSize="30sp"
         android:id="@+id/textVResultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
+        android:layout_marginBottom="36dp"
         android:text="@string/Resultado"
+        android:textSize="45sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
